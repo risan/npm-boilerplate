@@ -1,13 +1,13 @@
 {
-  "name": "npm-boilerplate",
+  "name": "npm-boilerplate-node-browser",
   "version": "1.0.0",
-  "description": "NPM module boilerplate for Node and browser",
+  "description": "Boilerplate for creating an NPM module both for Node and browser environments",
   "keywords": [
     "boilerplate"
   ],
-  "homepage": "https://github.com/risan/npm-boilerplate#readme",
+  "homepage": "https://github.com/risan/npm-boilerplate-node-browser#readme",
   "bugs": {
-    "url": "https://github.com/risan/npm-boilerplate/issues"
+    "url": "https://github.com/risan/npm-boilerplate-node-browser/issues"
   },
   "license": "MIT",
   "author": {
@@ -19,7 +19,7 @@
   "browser": "dist/foo.umd.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/risan/npm-boilerplate.git"
+    "url": "https://github.com/risan/npm-boilerplate-node-browser.git"
   },
   "scripts": {
     "build": "NODE_ENV=build rollup -c",
