@@ -62,10 +62,10 @@ Download the boilerpate:
 
 ```bash
 wget https://github.com/risan/npm-boilerplate-node-browser/archive/master.zip \
-    -O my-package.zip && \
-    unzip my-package.zip && \
+    -O master.zip && \
+    unzip master.zip && \
     mv npm-boilerplate-node-browser-master my-package && \
-    rm my-package.zip
+    rm master.zip
 ```
 
 Opinionated features:
