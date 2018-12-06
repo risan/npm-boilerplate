@@ -1,9 +1,11 @@
 {
   "name": "npm-boilerplate-node-browser",
   "version": "1.0.0",
-  "description": "Boilerplate for creating an NPM module both for Node and browser environments",
+  "description": "Boilerplate for creating an NPM module for Node and browser environments",
   "keywords": [
-    "boilerplate"
+    "boilerplate",
+    "node",
+    "npm"
   ],
   "homepage": "https://github.com/risan/npm-boilerplate-node-browser#readme",
   "bugs": {
@@ -15,8 +17,8 @@
     "email": "risanbagja@gmail.com",
     "url": "https://bagja.net"
   },
-  "main": "dist/foo.cjs.js",
-  "browser": "dist/foo.umd.js",
+  "main": "dist/npm-boilerplate-node-browser.cjs.js",
+  "browser": "dist/npm-boilerplate-node-browser.umd.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/risan/npm-boilerplate-node-browser.git"
