@@ -7,13 +7,15 @@
 
 Boilerplate for creating an NPM module for Node and browser environments.
 
-## Install
+## Installation
 
 ```bash
 $ npm install npm-boilerplate-node-browser
 ```
 
 ### CDN
+
+The library is available over a CDN:
 
 ```html
 <script src="https://unpkg.com/npm-boilerplate-node-browser@latest/dist/npm-boilerplate-node-browser.umd.js"></script>
@@ -57,7 +59,7 @@ It returns a `Promise` which when resolved contains something.
 
 [MIT](https://github.com/risan/npm-boilerplate-node-browser/blob/master/LICENSE) © [Risan Bagja Pradana](https://bagja.net)
 
-## About the Boilerplate
+## Using the Boilerplate
 
 Download the boilerpate:
 
