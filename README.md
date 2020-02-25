@@ -2,7 +2,6 @@
 
 [![Build Status](https://badgen.net/travis/risan/npm-boilerplate-node-browser)](https://travis-ci.org/risan/npm-boilerplate-node-browser)
 [![Test Covarage](https://badgen.net/codecov/c/github/risan/npm-boilerplate-node-browser)](https://codecov.io/gh/risan/npm-boilerplate-node-browser)
-[![Greenkeeper](https://badges.greenkeeper.io/risan/npm-boilerplate-node-browser.svg)](https://greenkeeper.io)
 [![Latest Version](https://badgen.net/npm/v/npm-boilerplate-node-browser)](https://www.npmjs.com/package/npm-boilerplate-node-browser)
 
 Boilerplate for creating an NPM module for Node and browser environments.
